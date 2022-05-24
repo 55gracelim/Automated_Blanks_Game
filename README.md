@@ -1,0 +1,2 @@
+# Automated_Blanks_Game
+This is an automated version of the Blanks game: a player provides a term that will be looked up on Wikipedia, then random words from the first paragraph of the Wikipedia entry are chosen to be replaced by their part-of-speech (POS) tags. Another player is then prompted to give a word to replace each POS tag. The output is a (hopefully humorous) version of the original paragraph.
